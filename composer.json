@@ -1,0 +1,18 @@
+{
+	"name": "polycademy/secrets",
+	"description": "Secrets Loader",
+	"keywords": ["secrets", "keys", "passwords"],
+	"homepage": "https://github.com/Polycademy/Secrets",
+	"license": "MIT",
+	"authors": [{
+		"name": "Roger Qiu",
+		"email": "roger.qiu@polycademy.com",
+		"homepage": "http://polycademy.com",
+		"role": "Founder and Developer"
+	}],
+	"autoload": {
+		"psr-0": {
+			"Secrets": "src"
+		}
+	}
+}
